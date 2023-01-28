@@ -1,5 +1,7 @@
 # ProseMirror to HTML (JS)
 
+# Original from https://github.com/enVolt/prosemirror-to-html
+
 (This package is based on [prosemirror-to-html](https://github.com/ueberdosis/prosemirror-to-html), which was originally written for PHP.)
 
 Takes ProseMirror JSON and outputs HTML.
