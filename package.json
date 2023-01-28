@@ -1,6 +1,6 @@
 {
   "name": "prosemirror-to-html-node",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "description": "Takes ProseMirror JSON and outputs HTML",
   "main": "index.js",
   "scripts": {
@@ -10,11 +10,21 @@
     "prosemirror",
     "text-editor"
   ],
-  "author": "Ashwani Agarwal",
+  "author": "Ashwani Agarwal | Lyrictape",
   "license": "ISC",
-  "dependencies": {},
   "devDependencies": {
     "chai": "^4.2.0",
     "mocha": "^6.2.0"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lyrictape/prosemirror-to-html-node.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lyrictape/prosemirror-to-html-node/issues"
+  },
+  "homepage": "https://github.com/lyrictape/prosemirror-to-html-node#readme"
 }
