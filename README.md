@@ -8,13 +8,13 @@ Takes ProseMirror JSON and outputs HTML.
 
 ## Installation
 ```bash
-npm install prosemirror-to-html-js --save
+npm install prosemirror-to-html-node-js --save
 ```
 
 ## Usage
 
 ```js
-const Renderer = require("prosemirror-to-html-js").Renderer;
+const Renderer = require("prosemirror-to-html-node-js").Renderer;
 
 const renderer = new Renderer();
 
